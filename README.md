@@ -9,20 +9,11 @@ The app consists of 3 screens. On the first screen, the user informs his name, b
 ![Screenshot 1](/screenshots/screenshot-1.png)
 ![Screenshot 2](/screenshots/screenshot-2.png)
 
-# Demo on YouTube
 
-If you want to see this app running, click on image below to take a look on a demo illustrated in a YouTube video:
+[![Screenshot Video](/screenshots/screenshot.png)]
 
-[![Screenshot Video](/screenshots/screenshot.png)](https://youtu.be/92zOdc_qVK4)
 
-## Author
-
-<a href="https://www.walissonsilva.com">
- <img style="border-radius: 50px;" src="https://avatars.githubusercontent.com/u/13500056?v=4" width="100px;" alt=""/>
- <br />
- <b>Walisson Silva</b></a>
-
-Made with ❤️ by Walisson Silva 👋🏽
+Made with ❤️ by M Bilal 👋🏽
 
 Contact me!
 
